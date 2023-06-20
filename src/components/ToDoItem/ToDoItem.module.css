@@ -1,0 +1,30 @@
+.listItem {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.checkbox {
+  cursor: pointer;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.label {
+  cursor: pointer;
+}
+
+.labelBtn {
+  border: none;
+  font-size: 1rem;
+  border-radius: 10px;
+  outline: none;
+  background-color: inherit;
+  margin: 0px 5px;
+}
